@@ -264,9 +264,6 @@ a:focus {
     -o-background-size: cover;
 }
 
-.contact-section {
-    background: url(../img/space.png) no-repeat center center scroll;
-}
 
 #map {
     width: 100%;
